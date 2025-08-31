@@ -15,39 +15,51 @@ I’m a 4th-year Computer Science and Math student at the University of Houston 
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan-amatya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](armaanamatya2014@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/armaan-amatya)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:armaanamatya2014@gmail.com)
 
 ---
 
 ## 💻 Tech Stack:
 
 ### Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
+### Frameworks / Libraries:
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+
+## 🗄️ Databases
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 
 ### Developer Tools:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
-### Frameworks / Libraries / Cloud:
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Drools](https://img.shields.io/badge/Drools-blue?style=for-the-badge)
-
+### Cloud:
+[![Google Cloud Platform](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
 
