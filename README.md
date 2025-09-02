@@ -8,7 +8,7 @@ I’m a 4th-year Computer Science and Math student at the University of Houston 
 
 ## 🚀 What I'm Up To
 - 🔍 Exploring fine-tuning a model for financial stock analysis, learning from the HF course on LLMs: https://huggingface.co/learn/llm-course/chapter1/1
-- 💻 Building an AI Agent for E-commerce Platforms 
+- 💻 Building a Multi-Agent System for E-commerce Platforms 
 <!-- - 📂 Check out my [coding portfolio](#) -->
 
 ---
