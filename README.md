@@ -1,16 +1,16 @@
 <!-- Title -->
-<h1 align="center">Hi 👋 I'm Armaan</h1>
+<h1 align="center">Hi there, I'm Armaan</h1>
 
 <!-- About Me -->
-## 🧠 About Me:
+## About Me:
 I’m a 4th-year Computer Science and Math student at the University of Houston with a passion for building and breaking stuff (mostly breaking). Been committing most of my time to being a Fullstack AI Engineer, from handling frontend UI to serving AI software from the backend. This has allowed me to grow into a more effective engineer with experience and knowledge spanning all areas of tech. 
 ---
 
-## 🚀 What I'm Up To
-- 🔍 Exploring fine-tuning a model for financial stock analysis, learning from the HF course on LLMs: https://huggingface.co/learn/llm-course/chapter1/1
-- 💻 Building a Multi-Agent System for E-commerce Platforms 
+## What I'm Up To
+- Exploring fine-tuning a model for financial stock analysis, learning from the LLM and RL courses on HF: https://huggingface.co/learn/llm-course/chapter1/1 and https://huggingface.co/learn/deep-rl-course/unit0/introduction
+- Designing and implementing a Multi-Agent System to optimize workflows for E-commerce platforms
+- Making (trying to make...) a database and network server in C/C++ from scratch to gain a deeper understanding of low-level systems
 <!-- - 📂 Check out my [coding portfolio](#) -->
-
 ---
 
 ## 🌐 Connect with Me
