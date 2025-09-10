@@ -17,7 +17,6 @@ I’m a 4th-year Computer Science and Math student at the University of Houston 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/armaan-amatya)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:armaanamatya2014@gmail.com)
-
 ---
 
 ## 💻 Tech Stack:
@@ -34,16 +33,15 @@ I’m a 4th-year Computer Science and Math student at the University of Houston 
 ### Frontend:
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Sass](https://skillicons.dev/icons?i=sass&theme=dark)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
-[![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)](https://skillicons.dev)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
 [![Material UI](https://skillicons.dev/icons?i=materialui&theme=dark)](https://skillicons.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
 
 ### Backend:
