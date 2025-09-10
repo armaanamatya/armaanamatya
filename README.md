@@ -66,7 +66,6 @@ I’m a 4th-year Computer Science and Math student at the University of Houston 
 ### DevOps:
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=dark)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
