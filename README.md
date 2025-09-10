@@ -30,32 +30,49 @@ I’m a 4th-year Computer Science and Math student at the University of Houston 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### Frontend:
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-
-### Frameworks / Libraries:
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Sass](https://skillicons.dev/icons?i=sass&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
+[![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)](https://skillicons.dev)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
+[![Material UI](https://skillicons.dev/icons?i=materialui&theme=dark)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
+
+### Backend:
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://skillicons.dev)
+
+### AI/ML:
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
-## 🗄️ Databases
+### Databases
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 
-### Developer Tools:
+### DevOps:
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=dark)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://skillicons.dev)
 
 ### Cloud:
 [![Google Cloud Platform](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
