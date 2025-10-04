@@ -20,7 +20,6 @@ I’m a 4th-year Computer Science and Math student at the University of Houston 
 ---
 
 ## 💻 Tech Stack:
-## 💻 Tech Stack:
 
 ### Languages:
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
