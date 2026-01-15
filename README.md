@@ -3,7 +3,7 @@
 
 <!-- About Me -->
 ## About Me:
-I’m a 4th-year Computer Science and Math student at the University of Houston with a passion for building and breaking stuff (mostly breaking). Been committing most of my time to being a Fullstack AI Engineer, from handling frontend UI to serving AI software from the backend. This has allowed me to grow into a more effective engineer with experience and knowledge spanning all areas of tech. 
+I’m a Senior CS + Math major at the University of Houston with a passion for building and breaking stuff (mostly breaking). Been committing most of my time to being a Fullstack AI Engineer, from handling frontend UI to serving AI software from the backend. This has allowed me to grow into a more effective engineer with experience and knowledge spanning all areas of tech. 
 ---
 
 ## What I'm Up To
