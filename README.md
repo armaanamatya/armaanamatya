@@ -3,7 +3,8 @@
 
 <!-- About Me -->
 ## About Me:
-I’m a Senior CS + Math major at the University of Houston with a passion for building and breaking stuff (mostly breaking). Been committing most of my time to being a Fullstack AI Engineer, from handling frontend UI to serving AI software from the backend. This has allowed me to grow into a more effective engineer with experience and knowledge spanning all areas of tech. 
+--> Senior CS + Math major at the University of Houston 
+--> Just building and reading AI papers
 ---
 
 <!--
@@ -28,8 +29,6 @@ I’m a Senior CS + Math major at the University of Houston with a passion for b
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
 
 ### Frontend:
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
