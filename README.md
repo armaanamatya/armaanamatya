@@ -3,7 +3,7 @@
 
 <!-- About Me -->
 ## About Me:
---> Senior CS + Math major at the University of Houston 
+--> Senior CS + Math major at the University of Houston //
 --> Just building and reading AI papers
 ---
 
