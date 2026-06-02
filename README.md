@@ -32,39 +32,24 @@
 ### Frontend:
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![Sass](https://skillicons.dev/icons?i=sass&theme=dark)](https://skillicons.dev)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-[![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-[![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
-[![Material UI](https://skillicons.dev/icons?i=materialui&theme=dark)](https://skillicons.dev)
 <!--
 [![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://skillicons.dev)
 -->
 
 ### Backend:
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
-[![Django](https://skillicons.dev/icons?i=django&theme=dark)](https://skillicons.dev)
 
 ### AI/ML:
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
 ### Databases:
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
-[![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 <!--
 [![MariaDB](https://skillicons.dev/icons?i=mariadb)](https://skillicons.dev)
 -->
@@ -72,17 +57,10 @@
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 [![Cloudflare](https://skillicons.dev/icons?i=cloudflare&theme=dark)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://skillicons.dev)
 
 ### Cloud:
 [![Google Cloud Platform](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-### Others:
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
 
