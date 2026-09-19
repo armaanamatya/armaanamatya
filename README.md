@@ -3,14 +3,11 @@
 
 ## Experience
 
-| Company | Position | Dates |
-|---|---|---|
-| Autonomize AI | Machine Learning Engineer Intern | May 2026 - Aug 2026 |
-| University of Houston | Undergraduate Researcher | Jan 2026 - Present |
-| Artinafti | AI Engineer Intern | Jan 2026 - May 2026 |
-| AutoHDR | Machine Learning Engineer Intern | Aug 2025 - Dec 2025 |
-| FuseMachines | Machine Learning Engineer Intern | May 2024 - Aug 2024 |
-| F1Soft International | Software Engineer Intern | May 2023 - Aug 2023 |
+- **Autonomize AI**, Machine Learning Engineer Intern, May 2026 - Aug 2026
+- **University of Houston**, Undergraduate Researcher, Jan 2026 - Present
+- **Artinafti**, AI Engineer Intern, Jan 2026 - May 2026
+- **AutoHDR**, Machine Learning Engineer Intern, Aug 2025 - Dec 2025
+- **FuseMachines**, Machine Learning Engineer Intern, May 2024 - Aug 2024
 
 ## Projects
 
@@ -22,4 +19,4 @@
 
 ## Now
 
-Contributing to [vLLM-Omni](https://github.com/vllm-project/vllm-omni)! My PRs: [#7776](https://github.com/vllm-project/vllm-omni/pull/7776), [#7779](https://github.com/vllm-project/vllm-omni/pull/7779)
+Contributing to [vLLM-Omni](https://github.com/vllm-project/vllm-omni)!
