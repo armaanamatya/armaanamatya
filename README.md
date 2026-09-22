@@ -19,4 +19,4 @@
 
 ## Now
 
-Contributing to [vLLM-Omni](https://github.com/vllm-project/vllm-omni)!
+Contributing to [vLLM-Omni]([https://github.com/vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni/pulls?q=is%3Apr+author%3Aarmaanamatya))!
