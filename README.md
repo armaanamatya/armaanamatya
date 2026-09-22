@@ -17,6 +17,11 @@
 - [Real-Time Distributed Keyword Spotting](https://github.com/armaanamatya/realtimedist-pipeline): Wav2Vec2 keyword spotting across 3 nodes
 - [Qie Stem Slicer](https://diannao.gumroad.com/): desktop audio stem-separation app
 
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/armaan-amatya/)
+- [armaanamatya.site](https://armaanamatya.site)
+
 ## Now
 
-Contributing to [vLLM-Omni]([https://github.com/vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni/pulls?q=is%3Apr+author%3Aarmaanamatya))!
+Contributing to [vLLM-Omni](https://github.com/vllm-project/vllm-omni/pulls?q=is%3Apr+author%3Aarmaanamatya)!
