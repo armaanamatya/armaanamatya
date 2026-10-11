@@ -6,7 +6,7 @@
 - **Autonomize AI**, Machine Learning Engineer Intern, May 2026 - Aug 2026
 - **University of Houston**, Undergraduate Researcher, Jan 2026 - Present
 - **Artinafti**, AI Engineer Intern, Jan 2026 - May 2026
-- **AutoHDR**, Machine Learning Engineer Intern, Aug 2025 - Dec 2025
+- **AutoHDR**, Machine Learning Engineer, Aug 2025 - Dec 2025
 - **FuseMachines**, Machine Learning Engineer Intern, May 2024 - Aug 2024
 
 ## Projects
