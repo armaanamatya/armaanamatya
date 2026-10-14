@@ -11,12 +11,13 @@
 
 ## Projects
 
+<!--
 - [Insider Signal](https://www.insidersignal.ai/): insider buy signals from SEC EDGAR filings
 - [OpenResearch](https://github.com/armaanamatya/openresearch): agent harness that reproduces arXiv papers
 - [Mixed-Precision GEMM Kernels in Triton](https://github.com/armaanamatya/GEMM): FP16 GEMM kernels benchmarked against cuBLAS
 - [Real-Time Distributed Keyword Spotting](https://github.com/armaanamatya/realtimedist-pipeline): Wav2Vec2 keyword spotting across 3 nodes
 - [Qie Stem Slicer](https://diannao.gumroad.com/): desktop audio stem-separation app
-
+--> 
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/armaan-amatya/)
